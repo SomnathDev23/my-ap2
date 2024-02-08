@@ -1,0 +1,19 @@
+.registration-form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .registration-form {
+    width: 300px;
+  }
+  
+  .hobbies-checkboxes {
+    margin-top: 10px;
+  }
+  
+  .current-state {
+    margin-top: 20px;
+  }
+  
